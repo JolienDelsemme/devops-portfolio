@@ -1,4 +1,4 @@
-Starten met Git
+Starten met Git:
     git add .
     git status
     git commit -m "Add 01/10/2021"

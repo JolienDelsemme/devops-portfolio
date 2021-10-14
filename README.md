@@ -7,4 +7,6 @@ In deze repository komen al mijn codes die ik heb geschreven of getest tijdens d
     * Starten met Git
     * Ansible
  * 08/10/2021
+    * YAML
+    * Docker 
  * 15/10/2021
